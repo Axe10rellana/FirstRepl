@@ -1,0 +1,14 @@
+{
+  "name": "firstrepl",
+  "version": "0.0.1",
+  "description": "Primer Ejemplo de un proyecto hecho en Replit",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": ["node.js", "replit"],
+  "author": "Red Eyes",
+  "license": "MIT"
+}
